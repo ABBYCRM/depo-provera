@@ -1,0 +1,7 @@
+{
+  "name": "depo-provera-site",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @workspace/depo-provera-lawsuit run dev"
+  }
+}
